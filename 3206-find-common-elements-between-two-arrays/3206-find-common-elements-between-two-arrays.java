@@ -3,8 +3,6 @@ class Solution {
         int l=nums1.length;
         int m=nums2.length;
         int i,j=0,k=0;
-        Arrays.sort(nums1);
-        Arrays.sort(nums2);
         Set<Integer> s =new HashSet<>();
         for(i=0;i<l;i++)
         {
