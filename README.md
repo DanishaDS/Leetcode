@@ -9,4 +9,12 @@
 | [1258-article-views-i](https://github.com/DanishaDS/Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/DanishaDS/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/DanishaDS/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [3206-find-common-elements-between-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [3206-find-common-elements-between-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 <!---LeetCode Topics End-->
