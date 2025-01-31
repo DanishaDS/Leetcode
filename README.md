@@ -37,4 +37,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/DanishaDS/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/DanishaDS/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
