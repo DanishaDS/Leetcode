@@ -20,6 +20,7 @@
 | [0777-toeplitz-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DanishaDS/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1603-running-sum-of-1d-array](https://github.com/DanishaDS/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DanishaDS/Leetcode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/DanishaDS/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
