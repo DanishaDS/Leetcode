@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DanishaDS/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0777-toeplitz-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -22,14 +23,17 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DanishaDS/Leetcode/tree/master/0169-majority-element) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DanishaDS/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DanishaDS/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -61,4 +65,8 @@
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0777-toeplitz-matrix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DanishaDS/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
