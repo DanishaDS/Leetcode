@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0777-toeplitz-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DanishaDS/Leetcode/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0777-toeplitz-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0777-toeplitz-matrix) |
 <!---LeetCode Topics End-->
