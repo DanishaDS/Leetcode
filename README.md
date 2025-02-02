@@ -81,4 +81,20 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/DanishaDS/Leetcode/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/DanishaDS/Leetcode/tree/master/1086-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/DanishaDS/Leetcode/tree/master/1086-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/DanishaDS/Leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/DanishaDS/Leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
