@@ -61,6 +61,7 @@
 | [0014-longest-common-prefix](https://github.com/DanishaDS/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/DanishaDS/Leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/DanishaDS/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0520-detect-capital](https://github.com/DanishaDS/Leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/DanishaDS/Leetcode/tree/master/0742-to-lower-case) |
 | [2235-capitalize-the-title](https://github.com/DanishaDS/Leetcode/tree/master/2235-capitalize-the-title) |
 ## Trie
