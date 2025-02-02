@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/DanishaDS/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DanishaDS/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0777-toeplitz-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0777-toeplitz-matrix) |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/DanishaDS/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/DanishaDS/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
