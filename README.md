@@ -31,6 +31,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/DanishaDS/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DanishaDS/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DanishaDS/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0268-missing-number](https://github.com/DanishaDS/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/DanishaDS/Leetcode/tree/master/0645-set-mismatch) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DanishaDS/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [2083-three-divisors](https://github.com/DanishaDS/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DanishaDS/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/DanishaDS/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DanishaDS/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
 | ------- |
