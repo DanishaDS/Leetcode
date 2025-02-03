@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DanishaDS/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DanishaDS/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DanishaDS/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -122,6 +123,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DanishaDS/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1086-divisor-game](https://github.com/DanishaDS/Leetcode/tree/master/1086-divisor-game) |
 ## Brainteaser
 |  |
