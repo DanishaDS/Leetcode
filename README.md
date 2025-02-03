@@ -28,6 +28,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/DanishaDS/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/DanishaDS/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1677-matrix-diagonal-sum](https://github.com/DanishaDS/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0898-transpose-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/DanishaDS/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Counting
 |  |
 | ------- |
