@@ -33,6 +33,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/DanishaDS/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DanishaDS/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3429-special-array-i](https://github.com/DanishaDS/Leetcode/tree/master/3429-special-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DanishaDS/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
