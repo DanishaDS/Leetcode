@@ -29,6 +29,7 @@
 | [1580-shuffle-the-array](https://github.com/DanishaDS/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/DanishaDS/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/DanishaDS/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/DanishaDS/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@
 | [0268-missing-number](https://github.com/DanishaDS/Leetcode/tree/master/0268-missing-number) |
 | [1086-divisor-game](https://github.com/DanishaDS/Leetcode/tree/master/1086-divisor-game) |
 | [2083-three-divisors](https://github.com/DanishaDS/Leetcode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/DanishaDS/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/DanishaDS/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/DanishaDS/Leetcode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/DanishaDS/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/DanishaDS/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Enumeration
 |  |
