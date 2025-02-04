@@ -89,6 +89,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/DanishaDS/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/DanishaDS/Leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/DanishaDS/Leetcode/tree/master/0742-to-lower-case) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DanishaDS/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2235-capitalize-the-title](https://github.com/DanishaDS/Leetcode/tree/master/2235-capitalize-the-title) |
 ## Trie
 |  |
@@ -161,4 +162,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DanishaDS/Leetcode/tree/master/0020-valid-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DanishaDS/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
