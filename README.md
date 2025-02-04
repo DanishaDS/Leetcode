@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DanishaDS/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/DanishaDS/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/DanishaDS/Leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/DanishaDS/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/DanishaDS/Leetcode/tree/master/0520-detect-capital) |
@@ -156,4 +157,8 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/DanishaDS/Leetcode/tree/master/2083-three-divisors) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DanishaDS/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
