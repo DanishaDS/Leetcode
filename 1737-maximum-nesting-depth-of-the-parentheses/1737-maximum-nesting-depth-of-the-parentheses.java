@@ -5,39 +5,24 @@ class Solution {
       int i,max=0,m=0;
       for(i=0;i<n;i++)
       {
-        
         char c=s.charAt(i);
         if(c=='{'||c=='['||c=='(')
         {
-            if(!S.isFull())
+            
             S.push(c);
             m=m+1;
         }
         else if(c=='}'||c==']'||c==')')
         {
-            if(!S.isEmpty())
-            {
+        
             char d=S.pop();
             m=m-1;
-            if(!((c=='}'&& d=='{')||(c==']' && d=='[')||(c==')'&& d=='(')))
-            {
-                return 0;
-            }
-            }
-            else
-            {
-                return 0;
-            }
 
         }
         if(m>max)
         {
             max=m;
         }
-      }
-      if(!S.isEmpty())
-      {
-        return 0;
       }
      
       return max;
@@ -53,14 +38,6 @@ class Stack1
         this.n =n;
         arr=new char[n];
         top=-1;
-    }
-    boolean isEmpty()
-    {
-       return top==-1;
-    }
-    boolean isFull()
-    {
-       return top==n-1;
     }
     void push(char c)
     {
