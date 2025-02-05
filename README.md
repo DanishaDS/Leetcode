@@ -50,6 +50,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/DanishaDS/Leetcode/tree/master/0645-set-mismatch) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/DanishaDS/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DanishaDS/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DanishaDS/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -93,6 +94,7 @@
 | [0742-to-lower-case](https://github.com/DanishaDS/Leetcode/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/DanishaDS/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DanishaDS/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/DanishaDS/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2235-capitalize-the-title](https://github.com/DanishaDS/Leetcode/tree/master/2235-capitalize-the-title) |
 ## Trie
 |  |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DanishaDS/Leetcode/tree/master/0169-majority-element) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/DanishaDS/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Prefix Sum
 |  |
 | ------- |
