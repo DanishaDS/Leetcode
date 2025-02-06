@@ -98,6 +98,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DanishaDS/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/DanishaDS/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2235-capitalize-the-title](https://github.com/DanishaDS/Leetcode/tree/master/2235-capitalize-the-title) |
+| [3379-score-of-a-string](https://github.com/DanishaDS/Leetcode/tree/master/3379-score-of-a-string) |
 ## Trie
 |  |
 | ------- |
