@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DanishaDS/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DanishaDS/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DanishaDS/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DanishaDS/Leetcode/tree/master/0169-majority-element) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DanishaDS/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0777-toeplitz-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/DanishaDS/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -150,6 +152,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/DanishaDS/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DanishaDS/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
