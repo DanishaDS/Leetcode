@@ -171,4 +171,12 @@
 | [0020-valid-parentheses](https://github.com/DanishaDS/Leetcode/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/DanishaDS/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DanishaDS/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/DanishaDS/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/DanishaDS/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
