@@ -100,6 +100,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DanishaDS/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/DanishaDS/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/DanishaDS/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/DanishaDS/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2235-capitalize-the-title](https://github.com/DanishaDS/Leetcode/tree/master/2235-capitalize-the-title) |
 | [3379-score-of-a-string](https://github.com/DanishaDS/Leetcode/tree/master/3379-score-of-a-string) |
 ## Trie
