@@ -27,6 +27,7 @@
 | [0414-third-maximum-number](https://github.com/DanishaDS/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/DanishaDS/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/DanishaDS/Leetcode/tree/master/0645-set-mismatch) |
 | [0777-toeplitz-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0898-transpose-matrix) |
