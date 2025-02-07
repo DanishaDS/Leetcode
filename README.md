@@ -190,6 +190,7 @@
 | [0203-remove-linked-list-elements](https://github.com/DanishaDS/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DanishaDS/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DanishaDS/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/DanishaDS/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DanishaDS/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
@@ -197,4 +198,12 @@
 | [0021-merge-two-sorted-lists](https://github.com/DanishaDS/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/DanishaDS/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DanishaDS/Leetcode/tree/master/0206-reverse-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/DanishaDS/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/DanishaDS/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
