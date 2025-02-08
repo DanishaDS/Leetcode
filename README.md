@@ -30,6 +30,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/DanishaDS/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/DanishaDS/Leetcode/tree/master/0645-set-mismatch) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/DanishaDS/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0898-transpose-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -167,6 +168,7 @@
 | [0074-search-a-2d-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/DanishaDS/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DanishaDS/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/DanishaDS/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
