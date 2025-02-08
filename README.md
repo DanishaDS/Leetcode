@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/DanishaDS/Leetcode/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/DanishaDS/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DanishaDS/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -162,6 +163,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/DanishaDS/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/DanishaDS/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DanishaDS/Leetcode/tree/master/0287-find-the-duplicate-number) |
