@@ -42,6 +42,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/DanishaDS/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/DanishaDS/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DanishaDS/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/DanishaDS/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DanishaDS/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/DanishaDS/Leetcode/tree/master/3429-special-array-i) |
@@ -59,6 +60,7 @@
 | [0645-set-mismatch](https://github.com/DanishaDS/Leetcode/tree/master/0645-set-mismatch) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/DanishaDS/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/DanishaDS/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DanishaDS/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DanishaDS/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -131,6 +133,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/DanishaDS/Leetcode/tree/master/0169-majority-element) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/DanishaDS/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/DanishaDS/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -151,6 +154,7 @@
 | [1086-divisor-game](https://github.com/DanishaDS/Leetcode/tree/master/1086-divisor-game) |
 | [2083-three-divisors](https://github.com/DanishaDS/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DanishaDS/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/DanishaDS/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/DanishaDS/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DanishaDS/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
