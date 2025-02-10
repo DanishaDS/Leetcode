@@ -152,6 +152,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/DanishaDS/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/DanishaDS/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/DanishaDS/Leetcode/tree/master/1086-divisor-game) |
 | [2083-three-divisors](https://github.com/DanishaDS/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DanishaDS/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -166,10 +167,12 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/DanishaDS/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/DanishaDS/Leetcode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/DanishaDS/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/DanishaDS/Leetcode/tree/master/1086-divisor-game) |
 ## Binary Search
 |  |
