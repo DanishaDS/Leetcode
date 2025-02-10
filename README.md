@@ -223,6 +223,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/DanishaDS/Leetcode/tree/master/0100-same-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/DanishaDS/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -236,4 +237,16 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/DanishaDS/Leetcode/tree/master/0164-maximum-gap) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DanishaDS/Leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DanishaDS/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DanishaDS/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
