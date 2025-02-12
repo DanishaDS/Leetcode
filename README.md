@@ -45,6 +45,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DanishaDS/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/DanishaDS/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3221-find-the-peaks](https://github.com/DanishaDS/Leetcode/tree/master/3221-find-the-peaks) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DanishaDS/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/DanishaDS/Leetcode/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DanishaDS/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -197,6 +198,7 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/DanishaDS/Leetcode/tree/master/2083-three-divisors) |
+| [3221-find-the-peaks](https://github.com/DanishaDS/Leetcode/tree/master/3221-find-the-peaks) |
 ## Stack
 |  |
 | ------- |
