@@ -36,6 +36,7 @@
 | [0777-toeplitz-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/DanishaDS/Leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0898-transpose-matrix) |
+| [1115-valid-boomerang](https://github.com/DanishaDS/Leetcode/tree/master/1115-valid-boomerang) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DanishaDS/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -157,6 +158,7 @@
 | [0268-missing-number](https://github.com/DanishaDS/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/DanishaDS/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/DanishaDS/Leetcode/tree/master/1086-divisor-game) |
+| [1115-valid-boomerang](https://github.com/DanishaDS/Leetcode/tree/master/1115-valid-boomerang) |
 | [2083-three-divisors](https://github.com/DanishaDS/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DanishaDS/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/DanishaDS/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DanishaDS/Leetcode/tree/master/0100-same-tree) |
+## Geometry
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/DanishaDS/Leetcode/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
