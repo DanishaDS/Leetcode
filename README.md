@@ -52,6 +52,7 @@
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DanishaDS/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/DanishaDS/Leetcode/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DanishaDS/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/DanishaDS/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DanishaDS/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -165,6 +166,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DanishaDS/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/DanishaDS/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/DanishaDS/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/DanishaDS/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DanishaDS/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
