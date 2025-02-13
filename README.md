@@ -213,6 +213,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DanishaDS/Leetcode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DanishaDS/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/DanishaDS/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DanishaDS/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
@@ -236,6 +237,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DanishaDS/Leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DanishaDS/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/DanishaDS/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -253,6 +255,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DanishaDS/Leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DanishaDS/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -261,6 +264,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DanishaDS/Leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DanishaDS/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Geometry
 |  |
 | ------- |
