@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/DanishaDS/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/DanishaDS/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/DanishaDS/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DanishaDS/Leetcode/tree/master/0075-sort-colors) |
@@ -159,6 +160,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/DanishaDS/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/DanishaDS/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/DanishaDS/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/DanishaDS/Leetcode/tree/master/1086-divisor-game) |
