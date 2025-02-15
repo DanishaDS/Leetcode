@@ -120,6 +120,7 @@
 | [0520-detect-capital](https://github.com/DanishaDS/Leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/DanishaDS/Leetcode/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/DanishaDS/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/DanishaDS/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1542-consecutive-characters](https://github.com/DanishaDS/Leetcode/tree/master/1542-consecutive-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DanishaDS/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/DanishaDS/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
