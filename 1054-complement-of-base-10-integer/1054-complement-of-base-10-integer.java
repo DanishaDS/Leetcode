@@ -1,6 +1,5 @@
 class Solution {
     public int bitwiseComplement(int n) {
-        Stack <Integer> s=new Stack<>();
         int i=0;
         double t=0;
         if(n==0)
