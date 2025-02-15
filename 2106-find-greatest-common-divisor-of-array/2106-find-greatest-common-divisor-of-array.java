@@ -1,19 +1,24 @@
 class Solution {
     public int findGCD(int[] nums) {
+        Arrays.sort(nums);
         int n=nums.length;
-        int i,min=nums[0],max=nums[0],j,c=0;
-        for(i=1;i<n;i++)
+        int f=nums[0];
+        int l=nums[n-1];
+        return GCD(f,l);
+    }
+    public int GCD(int f,int l)
+    {
+        if(l%f==0)
         {
-            min=Math.min(min,nums[i]);
-            max=Math.max(max,nums[i]);
+            return f;
         }
-        for(i=min;i>0;i--)
+        else
         {
-            if(max%i==0 && min%i==0)
-            {
-                return i;
-            }
+            if(l>f)
+            return GCD(l-f,f);
+            else
+            return GCD(f-l,l);
         }
-        return 1;
+        
     }
 }
