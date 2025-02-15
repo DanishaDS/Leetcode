@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/DanishaDS/Leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/DanishaDS/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DanishaDS/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/DanishaDS/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -76,6 +77,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DanishaDS/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DanishaDS/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
@@ -175,6 +177,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DanishaDS/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DanishaDS/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1086-divisor-game](https://github.com/DanishaDS/Leetcode/tree/master/1086-divisor-game) |
 ## Brainteaser
