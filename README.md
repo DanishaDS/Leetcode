@@ -47,6 +47,7 @@
 | [1580-shuffle-the-array](https://github.com/DanishaDS/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/DanishaDS/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/DanishaDS/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2058-concatenation-of-array](https://github.com/DanishaDS/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DanishaDS/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/DanishaDS/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/DanishaDS/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0898-transpose-matrix) |
+| [2058-concatenation-of-array](https://github.com/DanishaDS/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
