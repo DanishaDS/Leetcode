@@ -128,6 +128,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/DanishaDS/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/DanishaDS/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2235-capitalize-the-title](https://github.com/DanishaDS/Leetcode/tree/master/2235-capitalize-the-title) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/DanishaDS/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3379-score-of-a-string](https://github.com/DanishaDS/Leetcode/tree/master/3379-score-of-a-string) |
 ## Trie
 |  |
