@@ -181,6 +181,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DanishaDS/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/DanishaDS/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/DanishaDS/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/DanishaDS/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/DanishaDS/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DanishaDS/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
