@@ -45,6 +45,7 @@
 | [0777-toeplitz-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/DanishaDS/Leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/DanishaDS/Leetcode/tree/master/0898-transpose-matrix) |
+| [1019-squares-of-a-sorted-array](https://github.com/DanishaDS/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1115-valid-boomerang](https://github.com/DanishaDS/Leetcode/tree/master/1115-valid-boomerang) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DanishaDS/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DanishaDS/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -99,6 +100,7 @@
 | [0389-find-the-difference](https://github.com/DanishaDS/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/DanishaDS/Leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/DanishaDS/Leetcode/tree/master/0645-set-mismatch) |
+| [1019-squares-of-a-sorted-array](https://github.com/DanishaDS/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -118,6 +120,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/DanishaDS/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/DanishaDS/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DanishaDS/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/DanishaDS/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
