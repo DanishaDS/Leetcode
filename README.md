@@ -31,6 +31,7 @@
 | [0164-maximum-gap](https://github.com/DanishaDS/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/DanishaDS/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/DanishaDS/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DanishaDS/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DanishaDS/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DanishaDS/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DanishaDS/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/DanishaDS/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/DanishaDS/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DanishaDS/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/DanishaDS/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -96,6 +98,7 @@
 | [0164-maximum-gap](https://github.com/DanishaDS/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/DanishaDS/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DanishaDS/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/DanishaDS/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DanishaDS/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/DanishaDS/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/DanishaDS/Leetcode/tree/master/0414-third-maximum-number) |
